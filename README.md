@@ -6,7 +6,7 @@
 
 Thanks for stopping by. I'm Bernardo, a 25 year old **web developer** and **digital communicator** from Porto Alegre, in the south of Brazil. 
 
-I'm a person that values respect for diversity and difference, and I'm very passionate about getting to know people from different cultures and walks of life, and learning about the way they see the world. 
+I'm a person that values diversity and difference, and I'm very passionate about getting to know people from different cultures and walks of life, and learning about the ways they see the world. 
 
 I love being in nature, playing music and understanding a bit more (or less?) about life each day. I'm also fascinated by art, digital culture and philosophy.
 
@@ -24,6 +24,8 @@ I love being in nature, playing music and understanding a bit more (or less?) ab
 <a href="https://www.linkedin.com/in/bernherr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <h2>🛠 Skills</h2>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herr-berna&layout=compact&langs_count=16&theme=radical">
 
 I've been studying web development for over a year now, and I currently work at a digital marketing firm, making websites for a variety of clients. I came from the field of Advertising, so I have quite a bit of experience with design, video editing, social media and project planning. 
 
