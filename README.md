@@ -10,7 +10,7 @@ Thanks for stopping by. I'm Bernardo, a 25 year old **web developer** and **digi
 
 I'm a person that values respect for diversity and difference, and I'm very passionate about getting to know people from different cultures and walks of life, and learning about the way they see the world. 
 
-If you wanna collaborate on some project or talk about 
+If you wanna collaborate on some project or just chat, hit me up at herr_berna@protonmail.com!
 
 <ul>
   <li>🎸 Guitarist</li>
