@@ -4,11 +4,11 @@
 
 <h2>🌌 About me</h2>
 
-Thanks for stopping by. I'm Bernardo, a 25 year old **web developer** and **digital communicator** from Porto Alegre, in the south of Brazil. 
+Thanks for stopping by. I'm Bernardo, a 25 year old **web developer** and **digital communicator** from **Porto Alegre**, in the south of **Brazil**. 
 
-I'm a person that values diversity and difference, and I'm very passionate about getting to know people from different cultures and walks of life, and learning about the ways they see the world. 
+I'm a person that values **diversity** and **empathy**, and I'm very passionate about getting to know people from **different cultures** and walks of life, and learning about the ways they see the world. 
 
-I love being in nature, playing music and understanding a bit more (or less?) about life each day. I'm also fascinated by art, digital culture and philosophy.
+I love being in **nature**, playing **music** and understanding a bit more (or less?) about life each day. I'm also fascinated by **art**, **digital culture** and **philosophy**.
 
 <ul>
   <li>🎸 Guitarist</li>
@@ -27,7 +27,7 @@ I love being in nature, playing music and understanding a bit more (or less?) ab
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herr-berna&layout=compact&langs_count=16&theme=radical">
 
-I've been studying web development for over a year now, and I currently work at a digital marketing firm, making websites for a variety of clients. I came from the field of Advertising, so I have quite a bit of experience with design, video editing, social media and project planning. 
+I've been studying **web development** for over **a year** now, and I currently work at a **digital marketing** firm, making **websites** for a variety of clients. I came from the field of **Advertising**, so I have quite a bit of experience with **design**, **video editing**, **social media** and **project planning**. 
 
 In my professional projects, I use mostly **SASS** and a bit of **JavaScript**, besides a few **Python** scripts I created to speed things up. I've worked with some nocode platforms as well, but I much prefer to write my own code.
 
