@@ -10,7 +10,7 @@ I'm a person that values **diversity** and **empathy**, and I'm very passionate 
 
 I love being in **nature**, playing **music** and understanding a bit more (or less?) about life each day. I'm also fascinated by **art**, **digital culture** and **philosophy**.
 
-**I believe in a better world. In a world where humans respect and love nature and each other. The night is dark, but a new day is always possible.
+**I believe in a better world. In a world where humans respect and love nature and each other. The night is dark, but a new day is always possible.**
 
 <ul>
   <li>🎸 Guitarist</li>
