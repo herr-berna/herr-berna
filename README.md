@@ -4,7 +4,7 @@
 
 <h2>🌌 About me</h2>
 
-Thanks for stopping by. I'm Bernardo, a 25 year old **web developer** and **digital communicator** from **Porto Alegre**, in the south of **Brazil**. 
+Thanks for stopping by. I'm Bernardo, a **web developer** and **digital communicator** from **Porto Alegre**, in the south of **Brazil**. 
 
 I'm a person that values **diversity** and **empathy**, and I'm very passionate about getting to know people from **different cultures** and walks of life, and learning about the ways they see the world. 
 
@@ -14,13 +14,12 @@ I love being in **nature**, playing **music** and understanding a bit more (or l
   <li>🎸 Guitarist</li>
   <li>🚴🏼 Cyclist</li>
   <li>🌎 Lover of Nature</li>
-  <li>🍃 Meditation Enthusiast</li>
   <li>🌟 Dreamer</li>
   <li>🏹 Achiever</li>
 </ul>
 
 🦉 **How to reach me** <br> <br>
-<a href="mailto:herr_berna@protonmail.com" target="_blank" ><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a> <a href="https://t.me/herr_berna" target="_blank" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="mailto:herr_berna@protonmail.com" target="_blank" ><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/bernherr/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
@@ -28,24 +27,19 @@ I love being in **nature**, playing **music** and understanding a bit more (or l
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herr-berna&layout=compact&langs_count=16&theme=radical">
 
-I've been studying **web development** for over **a year** now, and I currently work at a **digital marketing** firm, making **websites** for a variety of clients. I came from the field of **Advertising**, so I have some experience with **design**, **video editing** and **social media**. 
+I have a professional background in **advertising and design**. It really helps me when it's time to create layouts on Figma, always caring to provide the best **user experience**, before switching to code.
 
-In my professional projects, I use mostly **SASS** and a bit of **JavaScript**, besides a few **Python** scripts I created to speed things up. I've worked with some nocode platforms as well, but I much prefer to write my own code.
-
-I've been studying **JavaScript** and **Python** on my free time. I'm very interested in learning more about **Data Science** and **Infosec**!
-
-At school, I'm also learning **SQL** and **PHP**. I'm looking forward to learning new technologies and becoming better each day!
+I'm currently focusing on learning how to use the strongest contemporary tools for **front-end web development**, like **React** with **Nextjs**. I'm currently honing my skills with vanilla Javascript as well.
 
 <ul>
 <li>💻 HTML, CSS, JS</li>
+<li>⚛️ React</li>
+<li>🎨 Figma</li>
 <li>🐍 Python</li>
-<li>🔎 Python BeautifulSoup</li>
-<li>🐘 PHP</li>
-<li>🧱 SQL</li>
+<li>📝 Trello</li>
 <li>🎥 Adobe Premiere</li>
 <li>📸 Adobe Photoshop</li>
 <li>🖋 Adobe Illustrator</li>
-<li>🖍Adobe XD</li>
 </ul>
 
 
