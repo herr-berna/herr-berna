@@ -29,7 +29,7 @@ I love being in **nature**, playing **music** and understanding a bit more (or l
 
 I have a professional background in **advertising and design**. It really helps me when it's time to create layouts on Figma, always caring to provide the best **user experience**, before switching to code.
 
-I'm currently focusing on learning how to use the strongest contemporary tools for **front-end web development**, like **React** with **Nextjs**. I'm currently honing my skills with vanilla Javascript as well.
+I'm currently focusing on learning how to use the strongest contemporary tools for **front-end web development**, like **React**, **Nextjs**, **SASS**, **styled-components**. I'm currently honing my skills with vanilla Javascript as well.
 
 <ul>
 <li>💻 HTML, CSS, JS</li>
