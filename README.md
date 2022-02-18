@@ -8,8 +8,6 @@ Thanks for stopping by. I'm Bernardo, a **web developer** and **digital communic
 
 I'm a person that values **diversity** and **empathy**, and I'm very passionate about getting to know people from **different cultures** and walks of life, and learning about the ways they see the world. 
 
-I love being in **nature**, playing **music** and understanding a bit more (or less?) about life each day. I'm also fascinated by **art**, **digital culture** and **philosophy**.
-
 <ul>
   <li>🎸 Guitarist</li>
   <li>🚴🏼 Cyclist</li>
