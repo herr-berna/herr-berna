@@ -4,7 +4,7 @@
 
 <h2>🌌 About me</h2>
 
-Thanks for stopping by. I'm Bernardo, a **web developer** and **digital communicator** from **Porto Alegre**, in the south of **Brazil**. 
+Thanks for stopping by. I'm Bernardo, a **web developer** and **ux designer** from **Porto Alegre**, in the south of **Brazil**. 
 
 I'm a person that values **diversity** and **empathy**, and I'm very passionate about getting to know people from **different cultures** and walks of life, and learning about the ways they see the world. 
 
