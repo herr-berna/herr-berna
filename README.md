@@ -8,7 +8,7 @@ Thanks for stopping by. I'm Bernardo, a **web developer** and **ux designer** fr
 
 I'm a person that values **diversity** and **empathy**, and I'm very passionate about getting to know people from **different cultures** and walks of life, and learning about the ways they see the world. 
 
-## [Take a look at some of my projects hosted on GitHub Pages!](https://herr-berna.github.io/)
+## <!-- [Take a look at some of my projects hosted on GitHub Pages!](https://herr-berna.github.io/) -->
 
 <ul>
   <li>🎸 Guitarist</li>
@@ -26,8 +26,6 @@ I'm a person that values **diversity** and **empathy**, and I'm very passionate 
 <h2>🛠 Skills</h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herr-berna&layout=compact&langs_count=16&theme=radical">
-
-I'm currently focusing on learning how to use the strongest contemporary tools for **front-end web development**, like **React**, **Nextjs**, **SASS**, **styled-components**. I'm currently honing my skills with vanilla Javascript as well.
 
 <ul>
 <li>💻 HTML, CSS, JS</li>
