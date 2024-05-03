@@ -23,6 +23,11 @@ I'm a person that values **diversity** and **empathy**, and I'm very passionate 
 </div>
 
 <h2>🛠 Skills</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass" />
+  </a>
+</p>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
