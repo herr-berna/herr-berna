@@ -20,14 +20,9 @@ I'm a person that values **diversity** and **empathy**, and I'm very passionate 
 <a href="mailto:herr_berna@protonmail.com" target="_blank" ><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/bernherr/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+</div>
 
 <h2>🛠 Skills</h2>
-
-
-<!-- <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=herr-berna&show_icons=true&hide=&count_private=true&theme=radical&&hide_border=true&show_icons=true" alt="herr-berna's GitHub stats" height="200" /> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herr-berna&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="herr-berna's GitHub stats" height="200" />
-</div>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
