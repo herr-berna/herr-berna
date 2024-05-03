@@ -25,6 +25,6 @@ I'm a person that values **diversity** and **empathy**, and I'm very passionate 
 <h2>🛠 Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,node,express,npm" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,nodejs,express,npm" />
   </a>
 </p>
