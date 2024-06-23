@@ -17,7 +17,6 @@ I'm a person that values **diversity** and **empathy**, and I'm very passionate 
 </ul>
 
 🦉 **How to reach me** <br> <br>
-<a href="mailto:herr_berna@protonmail.com" target="_blank" ><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/bernherr/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
