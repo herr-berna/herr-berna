@@ -14,6 +14,6 @@ Fullstack developer.
 <h2>🛠 Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,sass,nodejs,express,python" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,nodejs,express,java,python" />
   </a>
 </p>
