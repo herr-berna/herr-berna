@@ -2,9 +2,7 @@
 
 <h2>🌌 About me</h2>
 
-Thanks for stopping by. I'm Bernardo, a **fullstack web developer**. 
-
-I'm a person that values **diversity** and **empathy**, and I'm very passionate about getting to know people from **different cultures** and walks of life, and learning about the ways they see the world. 
+Fullstack developer.
 
 ## <!-- [Take a look at some of my projects hosted on GitHub Pages!](https://herr-berna.github.io/) -->
 
