@@ -2,13 +2,7 @@
 
 <h2>🌌 About me</h2>
 
-Fullstack developer.
-
-## <!-- [Take a look at some of my projects hosted on GitHub Pages!](https://herr-berna.github.io/) -->
-
-🦉 **How to reach me** <br> <br>
-<a href="https://www.linkedin.com/in/bernherr/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
+Fullstack developer. 🦉
 </div>
 
 <h2>🛠 Skills</h2>
